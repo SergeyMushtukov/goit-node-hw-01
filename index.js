@@ -41,20 +41,3 @@ async function invokeAction({ action, id, name, email, phone }) {
 invokeAction(options);
 
 
-
-
-
-
-
-
-
-
-// invokeAction({ action: "list" });
-// invokeAction({ action: "get", id: "rsKkOQUi80UsgVPCcLZZW" });
-// invokeAction({
-//   action: "add",
-//   name: "Max Groov",
-//   email: "max@Nulla.com",
-//   phone: "(704) 206-2678",
-// });
-// invokeAction({ action: "remove", id: "XMjNSJe6pqmWauoILWaK0" });
